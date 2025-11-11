@@ -1,4 +1,4 @@
-package com.tiestoettoet.create_train_parts.content.foundation.events;
+package com.tiestoettoet.create_train_parts.foundation.events;
 
 import com.simibubi.create.content.contraptions.actors.trainControls.ControlsHandler;
 import com.tiestoettoet.create_train_parts.content.decoration.slidingWindow.SlidingWindowRangeDisplay;
